@@ -799,7 +799,7 @@
       ]
     },
     "Play.Common/1.0.0": {
-      "sha512": "vQWx6VtUFpKGpf9FGnxSGtsBhk1/Yqs3Xalf3mz3/tPxvJ77yPdAvR9rWfc4Nwq0ZNReduSmYC3pkdgvsAeljw==",
+      "sha512": "a/Y7fRRma9fFgFQeMN/+k6l2wg38cNbIjMoYOQLbl1TQRy+ErpwSO+F/N4mo1IMUGtw4heG2G7ebq84pGrL8Bg==",
       "type": "package",
       "path": "play.common/1.0.0",
       "files": [
@@ -1115,25 +1115,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\thanhnv\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\ADMIN\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\projects\\Play.Catalog\\src\\Play.Catalog.Service\\Play.Catalog.Service.csproj",
+      "projectUniqueName": "C:\\Projects\\Play.Catalog\\src\\Play.Catalog.Service\\Play.Catalog.Service.csproj",
       "projectName": "Play.Catalog.Service",
-      "projectPath": "C:\\projects\\Play.Catalog\\src\\Play.Catalog.Service\\Play.Catalog.Service.csproj",
-      "packagesPath": "C:\\Users\\thanhnv\\.nuget\\packages\\",
-      "outputPath": "C:\\projects\\Play.Catalog\\src\\Play.Catalog.Service\\obj\\",
+      "projectPath": "C:\\Projects\\Play.Catalog\\src\\Play.Catalog.Service\\Play.Catalog.Service.csproj",
+      "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
+      "outputPath": "C:\\Projects\\Play.Catalog\\src\\Play.Catalog.Service\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\thanhnv\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -1160,7 +1158,8 @@
         "enableAudit": "true",
         "auditLevel": "low",
         "auditMode": "direct"
-      }
+      },
+      "SdkAnalysisLevel": "9.0.200"
     },
     "frameworks": {
       "net5.0": {
@@ -1194,7 +1193,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200\\RuntimeIdentifierGraph.json"
       }
     }
   }
